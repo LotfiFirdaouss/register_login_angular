@@ -1,5 +1,7 @@
 # Angular11JwtAuth
 
+JWT Authentication project in Angular (with django backend --> https://github.com/LotfiFirdaouss/backend_jwtauthloginandregister ) 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
 ## Development server
